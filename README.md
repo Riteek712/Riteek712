@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **riteek7.12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Lw7UdWi5HNSWaNUCOSE2i4zdkTs1W5lA/view?usp=drive_link](https://drive.google.com/file/d/1Lw7UdWi5HNSWaNUCOSE2i4zdkTs1W5lA/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1KuS8NWhAQqlQbr3ktgFkbj9DPeEvOET6/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
