@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Riteek712&style=for-the-badge&color=blue)
 
-- 🌱 I’m currently learning **Sveltkit, Docker, Kubernetes**
+- 🌱 I’m currently learning **Next.js, Docker, Kubernetes, Microservices**
 
 - 💬 Ask me about **Go, Node.js, Nest.js & MERN stack**
 
