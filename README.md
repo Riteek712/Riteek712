@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js, Docker, Kubernetes, Microservices**
 
-- 💬 Ask me about **Go, Node.js, Nest.js & MERN stack**
+- 💬 Ask me about **Go, Node.js, Nest.js , Next.js , Svelte/Sveltekit or  MERN stack**
 
 - 📫 How to reach me **riteek7.12@gmail.com**
 
