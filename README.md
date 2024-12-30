@@ -10,6 +10,4 @@
 
 - 📫 How to reach me **riteek7.12@gmail.com**
 
-- 📄  [My Resume](https://drive.google.com/file/d/1c-ySQQsDxWTArKELSfcdXl_WBDzXOV9r/view?usp=drive_link)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=riteek712&theme=windows-dark&card_width=680)](https://git.io/streak-stats)
